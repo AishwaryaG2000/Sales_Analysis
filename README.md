@@ -40,8 +40,7 @@ The primary objective of this project is to:
 ## 📊 Tableau Dashboard
 An **interactive Tableau dashboard** was created to visualize trends and customer segmentation
 
-![Tableau Dashboard](https://github.com/AishwaryaG2000/Sales_Analysis/blob/e14d0e863198b78c505b1483fe7b434c812dd1e6/Story%201%20(1).png)
-![Tableau Dashboard](https://github.com/AishwaryaG2000/Sales_Analysis/blob/1098e1ced3c2ef9962a73ab0f1b966da98af3080/Story%201%20(2).png)
+![Tableau Dashboard](https://github.com/AishwaryaG2000/Sales_Analysis/blob/6ad7e8c1b4bc4344edc95d7dff6e381efed48a7b/Dashboard%201.png)
 
 **Dashboard Highlights:**
 - Gender and Age group 
