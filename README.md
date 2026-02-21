@@ -47,7 +47,7 @@ An **interactive Tableau dashboard** was created to visualize trends and custome
 - Key insights and targeted Marketing Strategy
 - Interactive slicers for dynamic exploration
 
-![Tableau Dashboard] (C:\Users\aishw\Downloads
+
 
 ## 🧠 Key Business Insights
 - **Women** are your core decision-makers + buyers, especially for lifestyle and daily-use categories
